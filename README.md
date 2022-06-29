@@ -6,5 +6,3 @@ Project Topic:
 
 
 Team Members: Ashish Yadav, Nikhil Nooli, Rehman Choudhary
-
-Techonologies Preferred: Java, Front End , Back End
